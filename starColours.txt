@@ -1,0 +1,59 @@
+     O5(V)   155 176 255  #9bb0ff       -0.32 blue
+     O6(V)   162 184 255  #a2b8ff
+     O7(V)   157 177 255  #9db1ff
+     O8(V)   157 177 255  #9db1ff
+     O9(V)   154 178 255  #9ab2ff
+   O9.5(V)   164 186 255  #a4baff
+     B0(V)   156 178 255  #9cb2ff
+   B0.5(V)   167 188 255  #a7bcff
+     B1(V)   160 182 255  #a0b6ff
+     B2(V)   160 180 255  #a0b4ff
+     B3(V)   165 185 255  #a5b9ff
+     B4(V)   164 184 255  #a4b8ff
+     B5(V)   170 191 255  #aabfff
+     B6(V)   172 189 255  #acbdff
+     B7(V)   173 191 255  #adbfff
+     B8(V)   177 195 255  #b1c3ff
+     B9(V)   181 198 255  #b5c6ff
+     A0(V)   185 201 255  #b9c9ff       0.00 White
+     A1(V)   181 199 255  #b5c7ff
+     A2(V)   187 203 255  #bbcbff
+     A3(V)   191 207 255  #bfcfff
+     A5(V)   202 215 255  #cad7ff
+     A6(V)   199 212 255  #c7d4ff
+     A7(V)   200 213 255  #c8d5ff
+     A8(V)   213 222 255  #d5deff
+     A9(V)   219 224 255  #dbe0ff
+     F0(V)   224 229 255  #e0e5ff       0.31 yellowish
+     F2(V)   236 239 255  #ecefff
+     F4(V)   224 226 255  #e0e2ff
+     F5(V)   248 247 255  #f8f7ff
+     F6(V)   244 241 255  #f4f1ff
+     F7(V)   246 243 255  #f6f3ff       0.50
+     F8(V)   255 247 252  #fff7fc
+     F9(V)   255 247 252  #fff7fc
+     G0(V)   255 248 252  #fff8fc       0.59  Yellow
+     G1(V)   255 247 248  #fff7f8
+     G2(V)   255 245 242  #fff5f2
+     G4(V)   255 241 229  #fff1e5
+     G5(V)   255 244 234  #fff4ea
+     G6(V)   255 244 235  #fff4eb
+     G7(V)   255 244 235  #fff4eb
+     G8(V)   255 237 222  #ffedde
+     G9(V)   255 239 221  #ffefdd
+     K0(V)   255 238 221  #ffeedd       0.82 Orange
+     K1(V)   255 224 188  #ffe0bc
+     K2(V)   255 227 196  #ffe3c4
+     K3(V)   255 222 195  #ffdec3
+     K4(V)   255 216 181  #ffd8b5
+     K5(V)   255 210 161  #ffd2a1
+     K7(V)   255 199 142  #ffc78e
+     K8(V)   255 209 174  #ffd1ae
+     M0(V)   255 195 139  #ffc38b       1.41 red
+     M1(V)   255 204 142  #ffcc8e
+     M2(V)   255 196 131  #ffc483
+     M3(V)   255 206 129  #ffce81
+     M4(V)   255 201 127  #ffc97f
+     M5(V)   255 204 111  #ffcc6f
+     M6(V)   255 195 112  #ffc370
+     M8(V)   255 198 109  #ffc66d       2.00

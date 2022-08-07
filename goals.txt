@@ -1,0 +1,3 @@
+1. Have a navigable, simple and accurate orbital simulator
+2. Give a simple way to set up templates and create a working system
+3. Create a spacecraft that can burn in spesific directions and work in the system
